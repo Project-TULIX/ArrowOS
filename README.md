@@ -24,7 +24,7 @@ sudo apt install wget -y && sudo wget https://github.com/Project-TULIX/ArrowOS/A
 
 ## Request TULIXS
 
-To request more TULIXS, You can go to our [telegram](https://t.me/tulixchat) support group to request in a formal format.
+To request more TULIXS, You can go to our [Telegram](https://t.me/tulixchat) support group to request in a formal format.
 
 ### Format for Request
 ```
@@ -33,4 +33,4 @@ Source: GitHub Link
 ```
 ## Bugs
 
-Contact the support team to discuss about bugs on our Telegram
+Contact the support team to discuss about bugs on our [Telegram](https://t.me/tulixchat)
