@@ -17,7 +17,7 @@ apt update && apt install wget && wget https://github.com/Project-TULIX/ArrowOS/
 <h3 align="center">Credits</h3>
 
 - <a href="https://github.com/Muti605">Mustafa</a> - TULIX Trees
-- <a href="https://github.com/IceBreaker2451">Nischay</a> - TULIX Team Helper.
+- <a href="https://github.com/IceBreaker2451">Nischay</a> - Team Helper.
 - <a href="https://github.com/rabin-tech">Rabin</a> - Tester
 - <a href="https://github.com/OdSazib">OdSazib</a> - Kernel
 - <a href="https://github.com/AOSP-11">AOSP-11</a> - Blobs
