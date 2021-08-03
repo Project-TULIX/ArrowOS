@@ -1,9 +1,6 @@
 ![alt text](TULIX.png)
-<p align="center">
 
    # Project TULIX
-
-</p>
 This is an open source project that allows users to build a rom for Redmi Note 6 Pro by executing only one command. This will allow them to make roms and recoveries without doing anything.
 
 ## Installation
