@@ -11,7 +11,7 @@
 <p align="center">In this project we will build ArrowOS TULIX Edition, Get started by only executing a single command</p>
 
 ```bash
-sudo apt install wget && sudo wget https://github.com/Project-TULIX/ArrowOS/Arrow.sh && bash Arrow.sh
+sudo apt install wget -y && sudo wget https://github.com/Project-TULIX/ArrowOS/Arrow.sh && bash Arrow.sh
 ```
 
 <h3 align="center">Credits</h3>
@@ -22,3 +22,15 @@ sudo apt install wget && sudo wget https://github.com/Project-TULIX/ArrowOS/Arro
 - <a href="https://github.com/OdSazib">OdSazib</a> - Kernel
 - <a href="https://github.com/AOSP-11">AOSP-11</a> - Blobs
 
+## Request TULIXS
+
+To request more TULIXS, You can go to our [telegram](https://t.me/tulixchat) support group to request in a formal format.
+
+### Format for Request
+```
+@xelxen #TULIX-Request (ROM: Name of the ROM)
+Source: GitHub Link
+```
+## Bugs
+
+Contact the support team to discuss about bugs on our Telegram
