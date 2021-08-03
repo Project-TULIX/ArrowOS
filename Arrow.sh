@@ -1,5 +1,6 @@
 #!/bin/sh
 # Author : Team TULIX
+# Version : 1.0
 
 #ROM Name
 ROM=ArrowOS
