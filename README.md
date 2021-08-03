@@ -1,12 +1,22 @@
-![alt text](TULIX.png)
+<p align="center">
+  <img width="500" src="TULIX.png" alt="TULIX">
+</p>
 
-   # Project TULIX
-This is an open source project that allows users to build a rom for Redmi Note 6 Pro by executing only one command. This will allow them to make roms and recoveries without doing anything.
+<h1 align="center">Project TULIX</h1>
 
-## Installation
+<p align="center">This is an open source project that allows users to build a rom for Redmi Note 6 Pro by executing only one command. This will allow them to make roms and recoveries without doing anything.</p>
 
-In this project we will build ArrowOS TULIX Edition, Get started by only executing a single command
+<h3 align="center">Installation</h3>
+
+<p align="center">In this project we will build ArrowOS TULIX Edition, Get started by only executing a single command</p>
 
 ```bash
 apt update && apt install wget && wget https://github.com/Project-TULIX/ArrowOS/Arrow.sh && bash InstallTools.sh
 ```
+
+<h3 align="center">Credits</h3>
+
+- <a href="https://github.com/Muti605">Mustafa</a> - TULIX Trees
+- <a href="https://github.com/IceBreaker2451">Nischay</a> - TULIX Team Helper.
+- <a href="https://github.com/rabin-tech">Rabin</a> - Tester
+
