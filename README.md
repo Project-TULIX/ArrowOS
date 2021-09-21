@@ -11,7 +11,7 @@
 <p align="center">In this project we will build ArrowOS TULIX Edition, Get started by only executing a single command</p>
 
 ```bash
-sudo apt install wget -y && sudo wget https://github.com/Project-TULIX/ArrowOS/Arrow.sh && bash Arrow.sh
+sudo apt install wget -y && sudo wget https://raw.githubusercontent.com/Project-TULIX/ArrowOS/main/Arrow.sh && bash Arrow.sh
 ```
 
 <h3 align="center">Credits</h3>
